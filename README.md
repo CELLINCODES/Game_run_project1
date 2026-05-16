@@ -1,4 +1,4 @@
-# Nome do Projeto
+# Game Run
 
 Este projeto feito em minha de graduação tende a mostrar um simples game, cuja o objetivo é desviar de obstáculos tal como o famoso jogo do t rex do Chrome
 
